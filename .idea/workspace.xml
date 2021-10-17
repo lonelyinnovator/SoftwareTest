@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ec4ab85-49e4-4bb8-ae2d-c559595687c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="142" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../mavenWork/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../mavenWork/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../mavenWork/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_301" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1zcZmoDcV93uSBxwtA8qTm0mqjv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex1/src" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nextday" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ex1/src" />
+      <recent name="$PROJECT_DIR$/src/main/java/triangle" />
+      <recent name="$PROJECT_DIR$/src/main/java/nextday" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DateTest">
+    <configuration name="DateTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.DateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ex1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.DateTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest.isDayValidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.DateTest" />
+      <option name="METHOD_NAME" value="isDayValidTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest.nextDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.DateTest" />
+      <option name="METHOD_NAME" value="nextDayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest.testPrintDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nextday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nextday" />
+      <option name="MAIN_CLASS_NAME" value="nextday.DateTest" />
+      <option name="METHOD_NAME" value="testPrintDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DateTest" />
+      <item itemvalue="JUnit.DateTest.isDayValidTest" />
+      <item itemvalue="JUnit.DateTest.nextDayTest" />
+      <item itemvalue="JUnit.DateTest.testPrintDate" />
+      <item itemvalue="JUnit.DateTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DateTest" />
+        <item itemvalue="JUnit.DateTest (1)" />
+        <item itemvalue="JUnit.DateTest.testPrintDate" />
+        <item itemvalue="JUnit.DateTest.nextDayTest" />
+        <item itemvalue="JUnit.DateTest.isDayValidTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec4ab85-49e4-4bb8-ae2d-c559595687c1" name="Default Changelist" comment="" />
+      <created>1634449497320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634449497320</updated>
+      <workItem from="1634449500551" duration="7447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#DateTest" timestamp="1634456074029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#DateTest/0.0.1440.900@0.0.1440.900" timestamp="1634456074029" />
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634456095556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1634456095556" />
+    <state width="1398" height="381" key="GridCell.Tab.0.bottom" timestamp="1634456634387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1634456634387" />
+    <state width="1398" height="381" key="GridCell.Tab.0.center" timestamp="1634456634387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1634456634387" />
+    <state width="1398" height="381" key="GridCell.Tab.0.left" timestamp="1634456634386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1634456634386" />
+    <state width="1398" height="381" key="GridCell.Tab.0.right" timestamp="1634456634387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="381" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1634456634387" />
+    <state x="45" y="33" key="new project wizard" timestamp="1634455827541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="45" y="33" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1634455827541" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1634451811119">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1634451811119" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_equalsTest.ic" NAME="DateTest.equalsTest Coverage Results" MODIFIED="1634453402815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_isDayValidTest.ic" NAME="DateTest.isDayValidTest Coverage Results" MODIFIED="1634454683795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_incrementTest.ic" NAME="DateTest.incrementTest Coverage Results" MODIFIED="1634454415241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$TriangleTest_testlsTriangle.ic" NAME="TriangleTest.testlsTriangle Coverage Results" MODIFIED="1634450851573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>triangle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_isMonthVliadTest.ic" NAME="DateTest.isMonthVliadTest Coverage Results" MODIFIED="1634454606337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest__1_.ic" NAME="DateTest (1) Coverage Results" MODIFIED="1634455904701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_isValidTest.ic" NAME="DateTest.isValidTest Coverage Results" MODIFIED="1634454472952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_testPrintDate.ic" NAME="DateTest.testPrintDate Coverage Results" MODIFIED="1634454966655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_nextDayTest.ic" NAME="DateTest.nextDayTest Coverage Results" MODIFIED="1634454891515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest.ic" NAME="DateTest Coverage Results" MODIFIED="1634456634009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareTest$DateTest_toStringTest.ic" NAME="DateTest.toStringTest Coverage Results" MODIFIED="1634452973202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nextday.*</FILTER>
+    </SUITE>
+  </component>
+</project>
